@@ -2,6 +2,12 @@
 
 POS System គ្រប់គ្រងការលក់សម្រាប់ Mini-Mart, ហាងលក់ទំនិញ និង លក់គ្រឿងសំណង់ ផ្សេង 
 
+# ទំហំ
+
+* ទំហំ Software 56.2 M
+* ទំហំ JavaRuntime Setup 61.5 M
+* ទំហំ Font 12.0 M
+
 ## ចាប់ផ្តើមជាមួយនឹងការតម្លើង
 
 * ដំបូងអ្នកត្រូវតម្លើង Java Runtime ដែលមាននៅក្នុង Folder Runtime ដោយ Double click "jre-8u181-windows-i586.exe" រួចធ្វើការតម្លើងដោយចុច Next រហូត Finish.
